@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\USER\Documents\MyPythonProjects\ThyroidClassification\cpp_project\build\CMakeFiles\15b7175698a72d05b60d5be80ffb97da\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{112B157E-D546-39F0-8A23-EB13C1135656}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

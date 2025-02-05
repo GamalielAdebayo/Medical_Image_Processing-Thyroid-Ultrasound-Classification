@@ -1,0 +1,3 @@
+C:/Users/USER/Documents/MyPythonProjects/ThyroidClassification/cpp_project/build/CMakeFiles/ThyroidClassification.dir
+C:/Users/USER/Documents/MyPythonProjects/ThyroidClassification/cpp_project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/USER/Documents/MyPythonProjects/ThyroidClassification/cpp_project/build/CMakeFiles/ZERO_CHECK.dir
